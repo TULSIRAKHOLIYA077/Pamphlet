@@ -31,6 +31,9 @@ h1{
   text-align: center;
   color: white;
 }
+dl{
+  padding: 5px 6px;
+}
 dt{
   font-size: 25px;
   font-weight: 700;
@@ -38,7 +41,7 @@ dt{
 dd{
   font-size: 20px;
   font-weight: 600;
-  /* margin-left: 30px; */
+  margin-left: 15px;
 }
 h2{
   background-color: rgba(0, 0, 0, 0.555);
